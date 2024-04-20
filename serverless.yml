@@ -24,7 +24,7 @@ provider:
   name: aws
   runtime: python3.9
   lambdaHashingVersion: 20201221
-  profile: customer-profile
+#  profile: custom-profile
 
 # you can overwrite defaults here
 #  stage: dev
