@@ -1,1 +1,53 @@
-﻿Game,City,Gym Leader,Pokemon Name,Pokemon Type,Pokemon Level,Pokemon Counters,Pokemon Countered By,,Gym Badge,Gym Entry RequirementLet's go Pikachu/Eevee,Pewter,Brock,Geodude,"Rock, Ground",11,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",,Boulder,Has cute pokemon (Pikachu/Eevee)Let's go Pikachu/Eevee,Pewter,Brock,Onix,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",,Boulder,Has cute pokemon (Pikachu/Eevee)Let's go Pikachu/Eevee,Cerulean,Misty,Psyduck,"Water, Psychic",18,"Steel, Fire, Water, Ice, Fighting, Psychic","Electric, Grass, Bug, Ghost, Dark",,Cascade,At least level 15 pokemonLet's go Pikachu/Eevee,Cerulean,Misty,Starmie,"Water, Psychic",19,"Steel, Fire, Water, Ice, Fighting, Psychic","Electric, Grass, Bug, Ghost, Dark",,Cascade,At least level 15 pokemon
+﻿Game,City,Gym Leader,Pokemon Name,Pokemon Type,Pokemon Level,Pokemon Counters,Pokemon Countered By,Gym Badge,Entry Requirements
+Let's go Pikachu/Eevee,Pewter,Brock,Geodude,"Rock, Ground",11,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Boulder,"Has a Grass, Water Pokemon "
+Let's go Pikachu/Eevee,Pewter,Brock,Onix,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Boulder,"Has a Grass, Water Pokemon "
+Let's go Pikachu/Eevee,Cerulean,Misty,Psyduck,"Water, Psychic",18,"Steel, Fire, Water, Ice, Fighting, Psychic","Electric, Grass, Bug, Ghost, Dark",Cascade,Has a level 15 Pokemon
+Let's go Pikachu/Eevee,Cerulean,Misty,Starmie,"Water, Psychic",19,"Steel, Fire, Water, Ice, Fighting, Psychic","Electric, Grass, Bug, Ghost, Dark",Cascade,Has a level 15 Pokemon
+Let's go Pikachu/Eevee,Vermilion,Lt. Surge,Voltorb,Electric,25,"Flying, Steel, Electric",Ground,Thunder,Has Chop Down Move
+Let's go Pikachu/Eevee,Vermilion,Lt. Surge,Magnemite,"Electric, Steel",25,"Norma, Rock, Bug, Grass, Electric, Psychic, ice, Dragon, Fairy, Flying, Poison, Steel","Ground, Fighting, Ice",Thunder,Has Chop Down Move
+Let's go Pikachu/Eevee,Vermilion,Lt. Surge,Raichu,Electric,26,"Flying, Steel, Electric",Ground,Thunder,Has Chop Down Move
+Let's go Pikachu/Eevee,Celadon,Erika,Tangela,Grass,33,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",Rainbow,Has a Cute Pokemon (Pikachu/Eevee) 
+Let's go Pikachu/Eevee,Celadon,Erika,Weepinbell,"Grass, Poison",33,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",Rainbow,Has a Cute Pokemon (Pikachu/Eevee) 
+Let's go Pikachu/Eevee,Celadon,Erika,Vileplume,"Grass, Poison",34,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",Rainbow,Has a Cute Pokemon (Pikachu/Eevee) 
+Let's go Pikachu/Eevee,Fuchsia ,Koga,Weezing,Poison ,43,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",Soul,Catching at least 50 pokemon species
+Let's go Pikachu/Eevee,Fuchsia ,Koga,Muk,Poison ,43,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",Soul,Catching at least 50 pokemon species
+Let's go Pikachu/Eevee,Fuchsia ,Koga,Golbat,"Poison, Flying",43,"Ground, Poison,  Fairy, Fighting, Bug, Grass","Rock, Electric, Psychic, Ice",Soul,Catching at least 50 pokemon species
+Let's go Pikachu/Eevee,Fuchsia ,Koga,Venomoth,"Bug, Poison ",44,"Poison, Bug, Fairy, Fighting, Grass","Flying, Rock,  Fire, Psychic",Soul,Catching at least 50 pokemon species
+Let's go Pikachu/Eevee,Saffron,Sabrina,Mr. Mime,"Psychic, Fairy",43,"Psychic, Fighting, Dragon","Poison, Ghost, Steel",Marsh,Has at least a level 45 Pokemon 
+Let's go Pikachu/Eevee,Saffron,Sabrina,Slowbro,"Water, Psychic",43,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",Marsh,Level 45 Pokemon 
+Let's go Pikachu/Eevee,Saffron,Sabrina,Jynx,"Ice, Psychic",43,"Psychic, Ice","Rock, Bug, Ghost, Steel, Fire, Dark",Marsh,Level 45 Pokemon 
+Let's go Pikachu/Eevee,Saffron,Sabrina,Alakazam,Psychic,44,"Fighting, Psychic","Bug, Ghost, Dark ",Marsh,Level 45 Pokemon 
+Let's go Pikachu/Eevee,Cinnabar Island,Blaine,Magmar,Fire,47,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Volcano,Secret Key from Pokemon Mansion
+Let's go Pikachu/Eevee,Cinnabar Island,Blaine,Rapidash,Fire,47,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Volcano,Secret Key from Pokemon Mansion
+Let's go Pikachu/Eevee,Cinnabar Island,Blaine,Ninetales,Fire,47,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Volcano,Secret Key from Pokemon Mansion
+Let's go Pikachu/Eevee,Cinnabar Island,Blaine,Arcanine,Fire,48,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Volcano,Secret Key from Pokemon Mansion
+Let's go Pikachu/Eevee,Viridian,Giovanni,Dugtrio,Ground,49,"Poison, Rock, Electric","Water, Grass, Ice",Earth ,Defeating Team Rocket and visiting Professor Oak's lab
+Let's go Pikachu/Eevee,Viridian,Giovanni,Nidoqueen,"Poison, Ground",49,"Fighting, Rock, Bug, Fairy, Poison, Electric","Ground, Water, Psychic, Ice",Earth ,Defeating Team Rocket and visiting Professor Oak's lab
+Let's go Pikachu/Eevee,Viridian,Giovanni,Nidoking,"Poison, Ground",49,"Fighting, Rock, Bug, Fairy, Poison, Electric","Ground, Water, Psychic, Ice",Earth ,Defeating Team Rocket and visiting Professor Oak's lab
+Let's go Pikachu/Eevee,Viridian,Giovanni,Rhydon,"Ground, Rock",50,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Earth ,Defeating Team Rocket and visiting Professor Oak's lab
+Let's go Pikachu/Eevee,Indigo Plateau,Lorelei,Dewgong,"Water, Ice",51,"Water, Ice","Fighting, Rock, Grass, Electric",Elite 4,Have all 8 cities badges
+Let's go Pikachu/Eevee,Indigo Plateau,Lorelei,Jynx,"Ice, Psychic",51,"Psychic, Ice","Rock, Bug, Ghost, Steel, Fire, Dark",Elite 4,Have all 8 cities badges
+Let's go Pikachu/Eevee,Indigo Plateau,Lorelei,Cloyster,"Water, Ice",51,"Water, Ice","Fighting, Rock, Grass, Electric",Elite 4,Have all 8 cities badges
+Let's go Pikachu/Eevee,Indigo Plateau,Lorelei,Slowbro,"Water, Psychic",51,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",Elite 4,Have all 8 cities badges
+Let's go Pikachu/Eevee,Indigo Plateau,Lorelei,Lapras,"Water, Ice",52,"Water, Ice","Fighting, Rock, Grass, Electric",Elite 4,Have all 8 cities badges
+Let's go Pikachu/Eevee,Indigo Plateau,Bruno,Onix,"Rock, Ground",52,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Bruno,Hitmonlee,Fighting,52,"Rock, Bug, Dark","Flying, Psychic, Fairy",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Bruno,Hitmonchan,Fighting,52,"Rock, Bug, Dark","Flying, Psychic, Fairy",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Bruno,Poliwrath,"Water, Fighting",52,"Rock, Bug, Steel, Fire, Water, Ice, Dark","Flying, Grass, Electric, Psychic, Fairy",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Bruno,Machamp,Fighting,53,"Rock, Bug, Dark","Flying, Psychic, Fairy",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Agatha,Arbok,Poison ,53,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Agatha,Gengar,"Ghost, Poison",53,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Agatha,Golbat,"Poison, Flying",53,"Ground, Poison, Fairy, Fighting, Bug, Grass","Rock, Electric, Psychic, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Agatha,Weezing,Poison ,53,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Agatha,Gengar,"Ghost, Poison",54,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Lance,Seadra,Water,54,"Steel, Fire, Water, Ice","Grass, Electric",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Lance,Aerodactyl,"Rock, Flying",54,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Lance,Gyarados,"Water, Flying",54,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Lance,Charizard,"Fire, Flying",54,"Ground, Fighting, Steel, Fire, Fairy, Bug, Grass","Rock, Water, Electric",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Lance,Dragonite,"Dragon, Flying",55,"Fighting, Bug, Fire, Water, Ground, Grass","Ice, Rock, Dragon, Fairy",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Pidgeot,"Normal, Flying",56,"Bug, Grass, Ground, Ghost","Rock, Electric, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Vileplume,"Grass, Poison",56,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Marowak,Ground,56,"Poison, Rock, Electric","Water, Grass, Ice",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Rapidash,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Slowbro,"Water, Psychic",56,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",Elite 4,Beat Previous Elite 4 Member(s)
+Let's go Pikachu/Eevee,Indigo Plateau,Rival,Jolteon,Electric,57,"Flying, Steel, Electric",Ground,Elite 4,Beat Previous Elite 4 Member(s)

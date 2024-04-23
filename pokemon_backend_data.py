@@ -1,11 +1,11 @@
 import csv
 import boto3
 
-profile_name = 'custom-profile'
+
 # Initialize S3 client
 s3 = boto3.client('s3')
 
-# Define your bucket name and CSV file key
+# Define bucket name and CSV file key
 bucket_name = 'pokemon-counters'
 csv_file_key = 'Pokemon Data.csv'
 
@@ -13,7 +13,7 @@ csv_file_key = 'Pokemon Data.csv'
 response = s3.get_object(Bucket=bucket_name, Key=csv_file_key)
 csv_content = response['Body'].read().decode('utf-8')
 
-# Strip the BOM character if present
+# Strip the BOM character
 if csv_content.startswith('\ufeff'):
     csv_content = csv_content[1:]
 

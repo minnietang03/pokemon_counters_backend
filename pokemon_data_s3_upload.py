@@ -1,12 +1,10 @@
 import boto3
 
-# Replace 'custom-profile' with your AWS profile name
-profile_name = 'custom-profile'
 
 # Initialize S3 client
-s3 = boto3.Session(profile_name=profile_name).client('s3')
+s3 = boto3.client('s3')
 
-# Define your bucket name and CSV file key
+# Define bucket name and CSV file key
 bucket_name = 'pokemon-counters'
 local_csv_file = 'user/minnietang/Documents/personalproject/pokemoncounters/Pokemon Data.csv'  # Path to your local CSV file
 s3_csv_file_key = 'Pokemon Data.csv'  # Key is the file path in the S3 bucket
