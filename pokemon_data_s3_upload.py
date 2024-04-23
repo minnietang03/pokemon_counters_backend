@@ -6,7 +6,7 @@ s3 = boto3.client('s3')
 
 # Define bucket name and CSV file key
 bucket_name = 'pokemon-counters'
-local_csv_file = 'user/minnietang/Documents/personalproject/pokemoncounters/Pokemon Data.csv'  # Path to your local CSV file
+local_csv_file = 'Pokemon Data.csv'  # Path to your local CSV file
 s3_csv_file_key = 'Pokemon Data.csv'  # Key is the file path in the S3 bucket
 
 # Upload CSV file to S3 bucket
