@@ -28,15 +28,16 @@ jobs:
         with:
           python-version: '3'
       - name: Run Python script
-        run: 'my file path here'
+        run: 'pokemon_data_s3_upload.py'
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
 #    - name: serverless deploy
 #      uses: serverless/github-action@v3
 #      with:
 #        args: deploy
-#      env:
-#         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }} /Users/minnietang/Documents/personalproject/pokemoncounters/pokemon_data_s3_upload.py
+
 
 
 
