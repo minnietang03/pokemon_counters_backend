@@ -28,7 +28,7 @@ jobs:
         with:
           python-version: '3'
       - name: Run Python script
-        run:
+        run: |
           pip install boto3
           python pokemon_data_s3_upload.py
         env:
