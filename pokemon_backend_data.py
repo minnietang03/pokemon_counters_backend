@@ -24,10 +24,12 @@ pokemon_dict = {'Game': {}}
 # Parse CSV content
 csv_reader = csv.DictReader(csv_lines)
 for row in csv_reader:
+    # Check if the "Rematch" value is either "Yes" or "No"
     game = row['Game']
     city = row['City']
     gym_leader = row['Gym Leader']
     pokemon_name = row['Pokemon Name']
+    rematch = row['Rematch']
 
     if game not in pokemon_dict['Game']:
         pokemon_dict['Game'][game] = {city: {gym_leader: {'Pokemon Name': {}}}}
@@ -36,21 +38,12 @@ for row in csv_reader:
     elif gym_leader not in pokemon_dict['Game'][game][city]:
         pokemon_dict['Game'][game][city][gym_leader] = {'Pokemon Name': {}}
 
-    pokemon_dict['Game'][game][city][gym_leader]['Pokemon Name'][pokemon_name] = {
+    pokemon_dict['Game'][game][city][gym_leader][rematch]['Pokemon Name'][pokemon_name] = {
         'Gym Badge': row['Gym Badge'],
         'Gym Entry Requirement': row['Gym Entry Requirement'],
         'Pokemon Type': row['Pokemon Type'],
         'Pokemon Level': int(row['Pokemon Level']),
         'Pokemon Counters': row['Pokemon Counters'],
-        'Pokemon Countered by': row['Pokemon Countered By']
+        'Pokemon Countered by': row['Pokemon Countered By'],
+        'Rematch': row['Rematch']  # Include the rematch value in the data
     }
-
-    # Check the rematch value
-    if row['Rematch'].lower() == 'yes':
-        selectedRematch = 'Yes'
-    elif row['Rematch'].lower() == 'no':
-        selectedRematch = 'No'
-    else:
-        selectedRematch = ''  # Handle cases where the value is neither 'Yes' nor 'No'
-
-    # Now you can use the selectedRematch variable as needed.
