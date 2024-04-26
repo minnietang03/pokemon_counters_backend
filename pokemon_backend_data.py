@@ -1,7 +1,6 @@
 import csv
 import boto3
 
-
 # Initialize S3 client
 s3 = boto3.client('s3')
 
@@ -46,4 +45,12 @@ for row in csv_reader:
         'Pokemon Countered by': row['Pokemon Countered By']
     }
 
-print(pokemon_dict)
+    # Check the rematch value
+    if row['Rematch'].lower() == 'yes':
+        selectedRematch = 'Yes'
+    elif row['Rematch'].lower() == 'no':
+        selectedRematch = 'No'
+    else:
+        selectedRematch = ''  # Handle cases where the value is neither 'Yes' nor 'No'
+
+    # Now you can use the selectedRematch variable as needed.
