@@ -30,6 +30,8 @@ for row in csv_reader:
     gym_leader = row['Gym Leader']
     pokemon_name = row['Pokemon Name']
     rematch = row['Rematch']
+    print(row)
+    print(pokemon_dict)
 
     if game not in pokemon_dict['Game']:
         pokemon_dict['Game'][game] = {city: {gym_leader: {rematch: {'Pokemon Name': {}}}}}
@@ -38,6 +40,7 @@ for row in csv_reader:
     elif gym_leader not in pokemon_dict['Game'][game][city]:
         pokemon_dict['Game'][game][city][gym_leader] = {rematch: {'Pokemon Name': {}}}
 
+    print(pokemon_dict)
     pokemon_dict['Game'][game][city][gym_leader][rematch]['Pokemon Name'][pokemon_name] = {
         'Gym Badge': row['Gym Badge'],
         'Gym Entry Requirement': row['Gym Entry Requirement'],
