@@ -54,29 +54,29 @@ Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Jolteon,Electric,57,"Flying, Stee
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Geodude,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Coal,Get Roark from Oreburgh Mine
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Onix,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Coal,Get Roark from Oreburgh Mine
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Cranidos,Rock,14,"Normal, Flying, Poison, Fire","Fighting, Ground, Steel, Water, Grass",Coal,Get Roark from Oreburgh Mine
-Brilliant Diamond/Shining Pearl,No,Eterna City,Gardenia,Cherubi,Grass,19,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",Forest,Find and defeat trainers in maze
-Brilliant Diamond/Shining Pearl,No,Eterna City,Gardenia,Turtwig,Grass,19,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",Forest,Find and defeat trainers in maze
-Brilliant Diamond/Shining Pearl,No,Eterna City,Gardenia,Roserade,"Grass, Poison",22,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",Forest,Find and defeat trainers in maze
-Brilliant Diamond/Shining Pearl,No,Veilstone City,Maylene,Meditite,"Fighting, Psychic",27,"Fighting, Rock","Flying, Ghost, Fairy",Cobble,Move various boards and battle trainers
-Brilliant Diamond/Shining Pearl,No,Veilstone City,Maylene,Machoke,Fighting,27,"Rock, Bug, Dark","Flying, Psychic, Fairy",Cobble,Move various boards and battle trainers
-Brilliant Diamond/Shining Pearl,No,Veilstone City,Maylene,Lucario,"Fighting, Steel",30,"Normal, Steel, Grass, Ice, Dragon, Dark, Poison, Rock, Bug","Fighting, Ground, Fire",Cobble,Move various boards and battle trainers
-Brilliant Diamond/Shining Pearl,No,Pastoria City,Crasher Wake,Gyarados,"Water, Flying",27,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",Fen,Finish water level puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Pastoria City,Crasher Wake,Quagsire,"Water, Ground",27,"Electric, Poison, Rock, Steel, Fire",Grass,Fen,Finish water level puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Pastoria City,Crasher Wake,Floatzel,Water,30,"Steel, Fire, Water, Ice","Grass, Electric",Fen,Finish water level puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Hearthome City,Fantina,Drifblim,"Ghost, Flying",32,"Poison, Grass, Normal, Ground, Bug, Fighting","Rock, Ghost, Electric, Ice, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
-Brilliant Diamond/Shining Pearl,No,Hearthome City,Fantina,Gengar,"Ghost, Poison",34,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
-Brilliant Diamond/Shining Pearl,No,Hearthome City,Fantina,Mismagius,Ghost,36,"Poison, Bug, Fairy, Fighting","Ghost, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
-Brilliant Diamond/Shining Pearl,No,Canalave City,Byron,Bronzor,"Steel, Psychic",36,"Normal, Flying, Rock, Steel, Grass, Ice, Dragon, Fairy, Poison, Psychic","Ground, Ghost, Fire, Dark",Mine,Solve elevator platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Canalave City,Byron,Steelix,"Steel, Ground",36,"Normal, Flying, Bug, Steel, Psychic, Dragon, Fairy, Rock, Electric, Poison","Fighting, Ground, Fire, Water",Mine,Solve elevator platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Canalave City,Byron,Bastiondon,"Rock, Steel",39,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",Mine,Solve elevator platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Snowpoint City,Candice,Snover,"Grass, Ice",38,"Ground, Water, Grass, Electric","Fire, Fighting, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Snowpoint City,Candice,Sneasel,"Dark, Ice",38,"Ghost, Ice, Dark, Pyschic","Fighting, Rock, Bug, Steel, Fire, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Snowpoint City,Candice,Medicharm,"Fighting, Psychic",40,"Fighting, Rock","Flying, Ghost, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Snowpoint City,Candice,Abomasnow,"Grass, Ice",42,"Ground, Water, Grass, Electric","Fire, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Sunyshore City,Volkner,Raichu,Electric,46,"Flying, Steel, Electric",Ground,Beacon,Rotate gear platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Sunyshore City,Volkner,Ambipom,Normal,47,Ghost,Fighting,Beacon,Rotate gear platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Sunyshore City,Volkner,Octillery,Water,47,"Steel, Fire, Water, Ice","Grass, Electric",Beacon,Rotate gear platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Sunyshore City,Volkner,Luxray,Electric,49,"Flying, Steel, Electric",Ground,Beacon,Rotate gear platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Eterna,Gardenia,Cherubi,Grass,19,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",Forest,Find and defeat trainers in maze
+Brilliant Diamond/Shining Pearl,No,Eterna,Gardenia,Turtwig,Grass,19,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",Forest,Find and defeat trainers in maze
+Brilliant Diamond/Shining Pearl,No,Eterna,Gardenia,Roserade,"Grass, Poison",22,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",Forest,Find and defeat trainers in maze
+Brilliant Diamond/Shining Pearl,No,Veilstone,Maylene,Meditite,"Fighting, Psychic",27,"Fighting, Rock","Flying, Ghost, Fairy",Cobble,Move various boards and battle trainers
+Brilliant Diamond/Shining Pearl,No,Veilstone,Maylene,Machoke,Fighting,27,"Rock, Bug, Dark","Flying, Psychic, Fairy",Cobble,Move various boards and battle trainers
+Brilliant Diamond/Shining Pearl,No,Veilstone,Maylene,Lucario,"Fighting, Steel",30,"Normal, Steel, Grass, Ice, Dragon, Dark, Poison, Rock, Bug","Fighting, Ground, Fire",Cobble,Move various boards and battle trainers
+Brilliant Diamond/Shining Pearl,No,Pastoria,Crasher Wake,Gyarados,"Water, Flying",27,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",Fen,Finish water level puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Pastoria,Crasher Wake,Quagsire,"Water, Ground",27,"Electric, Poison, Rock, Steel, Fire",Grass,Fen,Finish water level puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Pastoria,Crasher Wake,Floatzel,Water,30,"Steel, Fire, Water, Ice","Grass, Electric",Fen,Finish water level puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Hearthome,Fantina,Drifblim,"Ghost, Flying",32,"Poison, Grass, Normal, Ground, Bug, Fighting","Rock, Ghost, Electric, Ice, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
+Brilliant Diamond/Shining Pearl,No,Hearthome,Fantina,Gengar,"Ghost, Poison",34,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
+Brilliant Diamond/Shining Pearl,No,Hearthome,Fantina,Mismagius,Ghost,36,"Poison, Bug, Fairy, Fighting","Ghost, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
+Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Bronzor,"Steel, Psychic",36,"Normal, Flying, Rock, Steel, Grass, Ice, Dragon, Fairy, Poison, Psychic","Ground, Ghost, Fire, Dark",Mine,Solve elevator platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Steelix,"Steel, Ground",36,"Normal, Flying, Bug, Steel, Psychic, Dragon, Fairy, Rock, Electric, Poison","Fighting, Ground, Fire, Water",Mine,Solve elevator platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Bastiondon,"Rock, Steel",39,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",Mine,Solve elevator platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Snover,"Grass, Ice",38,"Ground, Water, Grass, Electric","Fire, Fighting, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Sneasel,"Dark, Ice",38,"Ghost, Ice, Dark, Pyschic","Fighting, Rock, Bug, Steel, Fire, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Medicharm,"Fighting, Psychic",40,"Fighting, Rock","Flying, Ghost, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Abomasnow,"Grass, Ice",42,"Ground, Water, Grass, Electric","Fire, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Raichu,Electric,46,"Flying, Steel, Electric",Ground,Beacon,Rotate gear platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Ambipom,Normal,47,Ghost,Fighting,Beacon,Rotate gear platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Octillery,Water,47,"Steel, Fire, Water, Ice","Grass, Electric",Beacon,Rotate gear platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Luxray,Electric,49,"Flying, Steel, Electric",Ground,Beacon,Rotate gear platform puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Aaron,Dustox,"Bug, Poison ",53,"Poison, Bug, Fairy, Fighting, Grass","Flying, Rock,  Fire, Psychic",Elite 4,Have all 8 cities badges to enter Pokemon League
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Aaron,Beautifly,"Bug, Flying",53,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",Elite 4,Have all 8 cities badges to enter Pokemon League
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Aaron,Vespiquen,"Bug, Flying",54,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",Elite 4,Have all 8 cities badges to enter Pokemon League
@@ -103,8 +103,44 @@ Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Champion - Cynthia,
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Champion - Cynthia,Lucario,"Fighting, Steel",63,"Normal, Steel, Grass, Ice, Dragon, Dark, Poison, Rock, Bug","Fighting, Ground, Fire",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Champion - Cynthia,Milotic,Water,63,"Steel, Fire, Water, Ice","Grass, Electric",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Champion - Cynthia,Garchomp,"Dragon, Ground",66,"Poison, Rock, Fire, Electric","Ice, Dragon , Fairy",Elite 4,Beat Previous Elite 4 Member
-Let's go Pikachu/Eevee,Yes,Pewter,Brock,Onix,"Rock, Ground",56,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",None,None
-Let's go Pikachu/Eevee,Yes,Pewter,Brock,Kabutops,"Rock, Water",56,"Normal, Flying, Poison, Ice, Fire","Grass, Fighting, Ground, Electric",None,None
-Let's go Pikachu/Eevee,Yes,Pewter,Brock,Omastar,"Rock, Water",56,"Normal, Flying, Poison, Ice, Fire","Grass, Fighting, Ground, Electric",None,None
-Let's go Pikachu/Eevee,Yes,Pewter,Brock,Aerodactyl,"Rock, Flying",56,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",None,None
-Let's go Pikachu/Eevee,Yes,Pewter,Brock,Golem,"Rock, Ground",57,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",None,None
+Let's go Pikachu/Eevee,Yes,Pewter,Brock,Onix,"Rock, Ground",56,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Pewter,Brock,Kabutops,"Rock, Water",56,"Normal, Flying, Poison, Ice, Fire","Grass, Fighting, Ground, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Pewter,Brock,Omastar,"Rock, Water",56,"Normal, Flying, Poison, Ice, Fire","Grass, Fighting, Ground, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Pewter,Brock,Aerodactyl,"Rock, Flying",56,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Pewter,Brock,Golem,"Rock, Ground",57,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Golduck,Water,56,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Dewgong,"Water, Ice",56,"Water, Ice","Fighting, Rock, Grass, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Starmie,"Water, Psychic",56,"Steel, Fire, Water, Ice, Fighting, Psychic","Electric, Grass, Bug, Ghost, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Vaporeon,Water,56,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Gyarados,"Water, Flying",57,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Electrode,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Jolteon,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Electrabuzz,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Magneton,"Electric, Steel",56,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Ground, Fighting, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Raichu,Electric,57,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Celadon,Erika,Tangela,Grass,56,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Celadon,Erika,Parasect,"Bug, Grass",56,"Flying, Water, Electric, Ground, Grass","Flying, Fire, Poison, Rock, Bug, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Celadon,Erika,Victreebel,"Grass, Poison",56,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Celadon,Erika,Exeggutor,"Grass, Psychic",56,"Fighting, Ground, Water, Grass, Electric, Pyschic","Bug, Flying, Poison, Ghost, Fire, Ice, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Celadon,Erika,Vileplume,"Grass, Poison",57,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Fuchsia,Koga,Tentacruel,"Water, Poison",56,"Fighting, Poison, Bug, Steel, Fire, Water, Ice, Fairy","Ground, Electric, Pyschic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Fuchsia,Koga,Golbat,"Poison, Flying",56,"Ground, Poison,  Fairy, Fighting, Bug, Grass","Rock, Electric, Psychic, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Fuchsia,Koga,Weezing,Poison ,56,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Fuchsia,Koga,Venomoth,"Bug, Poison ",56,"Poison, Bug, Fairy, Fighting, Grass","Flying, Rock,  Fire, Psychic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Fuchsia,Koga,Muk,Poison ,57,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Saffron,Sabrina,Mr. Mime,"Psychic, Fairy",56,"Psychic, Fighting, Dragon","Poison, Ghost, Steel",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Saffron,Sabrina,Jynx,"Ice, Psychic",56,"Psychic, Ice","Rock, Bug, Ghost, Steel, Fire, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Saffron,Sabrina,Hypno,Psychic,56,"Fighting, Psychic","Bug, Ghost, Dark ",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Saffron,Sabrina,Slowbro,"Water, Psychic",56,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Saffron,Sabrina,Alakazam,Psychic,57,"Fighting, Psychic","Bug, Ghost, Dark ",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cinnabar Island,Blaine,Magmar,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cinnabar Island,Blaine,Rapidash,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cinnabar Island,Blaine,Ninetales,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cinnabar Island,Blaine,Flareon,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Cinnabar Island,Blaine,Arcanine,Fire,57,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,are ,Viridian,Blue,Tauros,Normal,66,Ghost,Fighting,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Viridian,Blue,Gyarados,"Water, Flying",66,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Viridian,Blue,Aerodactyl,"Rock, Flying",66,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Viridian,Blue,Alakazam,Psychic,66,"Fighting, Psychic","Bug, Ghost, Dark ",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Viridian,Blue,Exeggutor,"Grass, Psychic",66,"Fighting, Ground, Water, Grass, Electric, Pyschic","Bug, Flying, Poison, Ghost, Fire, Ice, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Viridian,Blue,Charizard,"Fire, Flying",68,"Ground, Fighting, Steel, Fire, Fairy, Bug, Grass","Rock, Water, Electric",None,Beaten Elite 4
