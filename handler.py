@@ -1,8 +1,9 @@
 import json
-from pokemon_backend_data import pokemon_dict
+from pokemon_backend_data import read_pokemon_dict
 
 
 def lambda_handler(event, context):
+    pokemon_dict = read_pokemon_dict()
     return {
         "statusCode": 200,
         "headers": {
