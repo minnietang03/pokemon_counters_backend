@@ -50,7 +50,7 @@ Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Vileplume,"Grass, Poison",56,"Fig
 Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Marowak,Ground,56,"Poison, Rock, Electric","Water, Grass, Ice",Elite 4,Beat Previous Elite 4 Member
 Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Rapidash,Fire,56,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",Elite 4,Beat Previous Elite 4 Member
 Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Slowbro,"Water, Psychic",56,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",Elite 4,Beat Previous Elite 4 Member
-Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Jolteon,Electric,57,"Flying, Steel, Electric",Ground,Elite 4,Beat Previous Elite 4 Member
+Let's go Pikachu/Eevee,No,Indigo Plateau,Rival,Jolteon/Raichu,Electric,57,"Flying, Steel, Electric",Ground,Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Geodude,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Coal,Get Roark from Oreburgh Mine
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Onix,"Rock, Ground",12,"Normal, Flying, Rock, Fire, Poison, Electric","Water, Grass, Fighting, Ground, Steel, Ice",Coal,Get Roark from Oreburgh Mine
 Brilliant Diamond/Shining Pearl,No,Oreburgh City,Roark,Cranidos,Rock,14,"Normal, Flying, Poison, Fire","Fighting, Ground, Steel, Water, Grass",Coal,Get Roark from Oreburgh Mine
@@ -154,5 +154,82 @@ Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Onix,"Rock, Ground",62,"Normal, 
 Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Hitmonlee,Fighting,62,"Rock, Bug, Dark","Flying, Psychic, Fairy",None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Hitmonchan,Fighting,62,"Rock, Bug, Dark","Flying, Psychic, Fairy",None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Poliwrath,"Water, Fighting",62,"Rock, Bug, Steel, Fire, Water, Ice, Dark","Flying, Grass, Electric, Psychic, Fairy",None,Beaten Elite 4
-Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Golem,"Rock, Electric",62,,,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Golem - Alola Form,"Rock, Electric",62,"Normal, Poison, Fire, Electric, Flying","Ground, Fighting, Water, Grass",None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Indigo Plateau,Bruno,Machamp,Fighting,63,"Rock, Bug, Dark","Flying, Psychic, Fairy",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Arbok,Poison ,63,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Gengar,"Ghost, Poison",63,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Golbat,"Poison, Flying",63,"Ground, Poison, Fairy, Fighting, Bug, Grass","Rock, Electric, Psychic, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Weezing,Poison ,63,"Fighting, Poison, Bug, Grass, Fairy","Ground, Psychic",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Marowak,"Fire, Ghost",63,"Poison, Steel, Grass, Ice, Fairy, Normal, Fighting, Bug","Ground, Rock, Ghost, Water, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Agatha,Gengar,"Ghost, Poison",64,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Seadra,Water,64,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Aerodactyl,"Rock, Flying",64,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Gyarados,"Water, Flying",64,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Exeggutor,"Grass, Dragon",64,"Ground, Water, Grass, Electric","Ice, Flying, Poison, Bug, Dragon, Fairy",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Mega Charizard X,"Fire, Flying",64,"Bug, Steel, Electric, Fire, Grass","Ground, Rock, Dragon",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Lance,Dragonite,"Dragon, Flying",64,"Fighting, Bug, Fire, Water, Ground, Grass","Ice, Rock, Dragon, Fairy",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Pidgeot,"Normal, Flying",64,"Bug, Grass, Ground, Ghost","Rock, Electric, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Vileplume,"Grass, Poison",64,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Marowak,Ground,64,"Poison, Rock, Electric","Water, Grass, Ice",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Rapidash,Fire,64,"Bug, Steel, Fire, Grass, Ice, Fairy","Ground, Rock, Water",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Slowbro,"Water, Psychic",64,"Fighting, Steel, Fire, Water, Psychic, Ice","Bug, Ghost, Grass, Electric, Dark",None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Indigo Plateau,Rival,Jolteon/Raichu,Electric,67,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Tyranitar,"Rock, Dark",68,"Normal, Flying, Poison, Ghost, Fire, Dark, Psychic","Fighting, Ground, Bug, Steel, Water, Grass, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Aerodactyl,"Rock, Flying",66,"Ground, Normal, Flying, Poison, Bug, Fire","Rock, Steel, Water, Electric, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Armaldo,"Rock, Bug",70,"Normal, Poison","Rock, Steel, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Proboopass,"Rock, Steel",68,"Fighting, Ground, Water","Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Relicanth,"Water, Rock",64,"Normal, Flying, Poison, Ice, Fire","Grass, Fighting, Ground, Electric",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Oreburgh City,Roark,Rampardos,Rock,72,"Normal, Flying, Poison, Fire","Fighting, Ground, Steel, Water, Grass",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Jumpluff,"Grass, Flying",66,"Fighting, Water, Grass, Ground","Ice, Flying, Poison, Rock, Fire",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Sunflora,Grass,70,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Cherrim,Grass,69,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Breloom,"Grass, Fighting",68,"Ground, Rock, Water, Grass, Electric, Dark","Flying, Poison, Fire, Psychic, Ice, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Torterra,"Grass, Ground",68,"Ground, Rock, Electric","Ice, Flying, Bug, Fire",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Eterna,Gardenia,Roserade,"Grass, Poison",72,"Fighting, Water, Electric, Fairy, Grass","Flying, Fire, Psychic, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Hitmontop,Fighting,64,"Rock, Bug, Dark","Flying, Psychic, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Breloom,"Grass, Fighting",66,"Ground, Rock, Water, Grass, Electric, Dark","Flying, Poison, Fire, Psychic, Ice, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Heracross,"Bug, Fighting",68,"Fighting, Ground, Bug, Grass, Dark","Flying, Fire, Psychic, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Infernape,"Fire, Fighting",70,"Steel, Fire, Grass, Ice, Dark, Bug","Flying, Ground, Water, Psychic",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Medicharm,"Fighting, Psychic",72,"Fighting, Rock","Flying, Ghost, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Lucario,"Fighting, Steel",74,"Normal, Steel, Grass, Ice, Dragon, Dark, Poison, Rock, Bug","Fighting, Ground, Fire",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Politoed,Water,68,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Kingdra,"Water, Dragon",68,"Steel, Fire, Water","Dragon, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Ludicolo,"Water, Grass",68,"Ground, Steel, Water","Flying, Poison, Bug",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Huntail,Water,70,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Gyarados,"Water, Flying",70,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Floatzel,Water,72,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Drifblim,"Ghost, Flying",68,"Poison, Grass, Normal, Ground, Bug, Fighting","Rock, Ghost, Electric, Ice, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Banette,Ghost,65,"Poison, Bug, Normal, Fighting","Ghost, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Dusknoir,Ghost,70,"Poison, Bug, Normal, Fighting","Ghost, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Mismagius,Ghost,70,"Poison, Bug, Fairy, Fighting","Ghost, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Froslass,"Ice, Ghost",72,"Fighting, Poison, Bug, Ice, Normal","Rock, Ghost, Steel, Fire, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Hearthome,Fantina,Gengar,"Ghost, Poison",72,"Grass, Fairy, Normal, Poison, Bug, Fighting","Ground, Ghost, Psychic, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Skarmory,"Steel, Flying",69,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Steelix,"Steel, Ground",69,"Normal, Flying, Bug, Steel, Psychic, Dragon, Fairy, Rock, Electric, Poison","Fighting, Ground, Fire, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Magnezone,"Electric, Steel",70,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Ground, Fire, Fire",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Empoleon,"Water, Steel",70,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Fighting, Ground, Electric",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Aggron,"Steel, Rock",72,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Bastiondon,"Rock, Steel",72,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Abomasnow,"Grass, Ice",68,"Ground, Water, Grass, Electric","Fire, Flying, Poison, Rock, Bug, Steel",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Jynx,"Ice, Psychic",70,"Psychic, Ice","Rock, Bug, Ghost, Steel, Fire, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Mamoswine,"Ice, Ground",68,"Poison, Electric","Fighting, Steel, Fire, Water, Grass",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Froslass,"Ice, Ghost",70,"Fighting, Poison, Bug, Ice, Normal","Rock, Ghost, Steel, Fire, Dark",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Glaceon,Ice,70,Ice,"Fighting, Rock, Steel, Fire",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Weavile,"Dark, Ice",72,"Ghost, Ice, Dark, Pyschic","Fighting, Rock, Bug, Steel, Fire, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Pelipper,"Water, Flying",70,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Raichu,Electric,70,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Luxray,Electric,70,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Lanturn,"Water, Electric",66,"Flying, Fire, Water, Ice, Steel","Ground, Grass",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Jolteon,Electric,68,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Sunyshore,Volkner,Electivire,Electric,75,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - First Time,Pokemon League Elite Four,Aaron,Yanmega,"Bug, Flying",65,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - First Time,Pokemon League Elite Four,Aaron,Scizor,"Bug, Steel",65,"Normal, Bug, Steel, Psychic, Ice, Dragon, Fairy, Poison, Grass",Fire,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - First Time,Pokemon League Elite Four,Aaron,Vespiquen,"Bug, Flying",66,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - First Time,Pokemon League Elite Four,Aaron,Heracross,"Bug, Fighting",67,"Fighting, Ground, Bug, Grass, Dark","Flying, Fire, Psychic, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - First Time,Pokemon League Elite Four,Aaron,Drapion,"Poison, Dark",69,"Psychic, Poison, Ghost, Grass, Dark",Ground,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Yanmega,"Bug, Flying",75,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Scizor,"Bug, Steel",75,"Normal, Bug, Steel, Psychic, Ice, Dragon, Fairy, Poison, Grass",Fire,None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Vespiquen,"Bug, Flying",77,"Bug, Fighting, Grass, Ground","Rock, Flying, Fire, Electric, Ice",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Heracross,"Bug, Fighting",77,"Fighting, Ground, Bug, Grass, Dark","Flying, Fire, Psychic, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Flygon,"Ground, Dragon",75,"Poison, Rock, Fire, Electric","Ice, Dragon , Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes - Second Time,Pokemon League Elite Four,Aaron,Drapion,"Poison, Dark",79,"Psychic, Poison, Ghost, Grass, Dark",Ground,None,Beaten Elite 4
