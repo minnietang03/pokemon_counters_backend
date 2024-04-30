@@ -68,10 +68,10 @@ Brilliant Diamond/Shining Pearl,No,Hearthome,Fantina,Gengar,"Ghost, Poison",34,"
 Brilliant Diamond/Shining Pearl,No,Hearthome,Fantina,Mismagius,Ghost,36,"Poison, Bug, Fairy, Fighting","Ghost, Dark",Relic,"Finish Veilstone and Pastoria gym, and speak with Fantina outside the Super Contest Hall. Answer questions from signs in gym."
 Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Bronzor,"Steel, Psychic",36,"Normal, Flying, Rock, Steel, Grass, Ice, Dragon, Fairy, Poison, Psychic","Ground, Ghost, Fire, Dark",Mine,Solve elevator platform puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Steelix,"Steel, Ground",36,"Normal, Flying, Bug, Steel, Psychic, Dragon, Fairy, Rock, Electric, Poison","Fighting, Ground, Fire, Water",Mine,Solve elevator platform puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Bastiondon,"Rock, Steel",39,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",Mine,Solve elevator platform puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Canalave,Byron,Bastiodon,"Rock, Steel",39,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",Mine,Solve elevator platform puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Snover,"Grass, Ice",38,"Ground, Water, Grass, Electric","Fire, Fighting, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Sneasel,"Dark, Ice",38,"Ghost, Ice, Dark, Pyschic","Fighting, Rock, Bug, Steel, Fire, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
-Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Medicharm,"Fighting, Psychic",40,"Fighting, Rock","Flying, Ghost, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
+Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Medicham,"Fighting, Psychic",40,"Fighting, Rock","Flying, Ghost, Fairy",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Snowpoint,Candice,Abomasnow,"Grass, Ice",42,"Ground, Water, Grass, Electric","Fire, Flying, Poison, Rock, Bug, Steel",Icicle,Sliding platform to destroy snowball puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Raichu,Electric,46,"Flying, Steel, Electric",Ground,Beacon,Rotate gear platform puzzle and defeat trainers
 Brilliant Diamond/Shining Pearl,No,Sunyshore,Volkner,Ambipom,Normal,47,Ghost,Fighting,Beacon,Rotate gear platform puzzle and defeat trainers
@@ -94,7 +94,7 @@ Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Flint,Lopunny,Norma
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Flint,Infernape,"Fire, Fighting",61,"Steel, Fire, Grass, Ice, Dark, Bug","Flying, Ground, Water, Psychic",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Mr. Mime,"Psychic, Fairy",59,"Psychic, Fighting, Dragon","Poison, Ghost, Steel",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Girafarig,"Normal, Psychic",59,"Ghost, Psychic","Bug, Dark",Elite 4,Beat Previous Elite 4 Member
-Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Medicharm,"Fighting, Psychic",60,"Fighting, Rock","Flying, Ghost, Fairy",Elite 4,Beat Previous Elite 4 Member
+Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Medicham,"Fighting, Psychic",60,"Fighting, Rock","Flying, Ghost, Fairy",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Alakazam,Psychic,60,"Fighting, Psychic","Bug, Ghost, Dark ",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Lucian,Bronzong,"Steel, Psychic",63,"Normal, Flying, Rock, Steel, Grass, Ice, Dragon, Fairy, Poison, Psychic","Ground, Ghost, Fire, Dark",Elite 4,Beat Previous Elite 4 Member
 Brilliant Diamond/Shining Pearl,No,Pokemon League Elite Four,Champion - Cynthia,Spiritomb,"Ghost, Dark",61,"Fighting, Poison, Normal, Psychic",Fairy,Elite 4,Beat Previous Elite 4 Member
@@ -115,7 +115,7 @@ Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Vaporeon,Water,56,"Steel, Fire, Water,
 Let's go Pikachu/Eevee,Yes,Cerulean,Misty,Gyarados,"Water, Flying",57,"Fighting, Bug, Steel, Fire, Water, Ground","Electric, Rock",None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Electrode,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Jolteon,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
-Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Electrabuzz,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
+Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Electabuzz,Electric,56,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Magneton,"Electric, Steel",56,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Ground, Fighting, Ice",None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Vermilion,Lt. Surge,Raichu,Electric,57,"Flying, Steel, Electric",Ground,None,Beaten Elite 4
 Let's go Pikachu/Eevee,Yes,Celadon,Erika,Tangela,Grass,56,"Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice",None,Beaten Elite 4
@@ -190,7 +190,7 @@ Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Hitmontop,Fighting,64,"Roc
 Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Breloom,"Grass, Fighting",66,"Ground, Rock, Water, Grass, Electric, Dark","Flying, Poison, Fire, Psychic, Ice, Fairy",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Heracross,"Bug, Fighting",68,"Fighting, Ground, Bug, Grass, Dark","Flying, Fire, Psychic, Fairy",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Infernape,"Fire, Fighting",70,"Steel, Fire, Grass, Ice, Dark, Bug","Flying, Ground, Water, Psychic",None,Beaten Elite 4
-Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Medicharm,"Fighting, Psychic",72,"Fighting, Rock","Flying, Ghost, Fairy",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Medicham,"Fighting, Psychic",72,"Fighting, Rock","Flying, Ghost, Fairy",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Veilstone,Maylene,Lucario,"Fighting, Steel",74,"Normal, Steel, Grass, Ice, Dragon, Dark, Poison, Rock, Bug","Fighting, Ground, Fire",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Politoed,Water,68,"Steel, Fire, Water, Ice","Grass, Electric",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Pastoria,Crasher Wake,Kingdra,"Water, Dragon",68,"Steel, Fire, Water","Dragon, Fairy",None,Beaten Elite 4
@@ -209,7 +209,7 @@ Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Steelix,"Steel, Ground",69,"N
 Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Magnezone,"Electric, Steel",70,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Ground, Fire, Fire",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Empoleon,"Water, Steel",70,"Normal, Rock, Bug, Grass, Electric, Psychic, Ice, Dragon, Fairy, Flying, Poison, Steel","Fighting, Ground, Electric",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Aggron,"Steel, Rock",72,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
-Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Bastiondon,"Rock, Steel",72,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
+Brilliant Diamond/Shining Pearl,Yes,Canalave,Byron,Bastiodon,"Rock, Steel",72,"Rock, Bug, Psychic, Ice, Dragon, Fairy, Normal, Flying, Poison","Fighting, Ground, Water",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Abomasnow,"Grass, Ice",68,"Ground, Water, Grass, Electric","Fire, Flying, Poison, Rock, Bug, Steel",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Jynx,"Ice, Psychic",70,"Psychic, Ice","Rock, Bug, Ghost, Steel, Fire, Dark",None,Beaten Elite 4
 Brilliant Diamond/Shining Pearl,Yes,Snowpoint,Candice,Mamoswine,"Ice, Ground",68,"Poison, Electric","Fighting, Steel, Fire, Water, Grass",None,Beaten Elite 4
